@@ -4,7 +4,7 @@
 
 I'm Zayan, a Computer Science student at the University of Virginia with a passion for full-stack development, AI applications, and data engineering. I love building practical tools that help people solve real-world problems.
 
-- 🎓 **Pursuing a BS in Computer Science** at UVA
+- 🎓 **Pursuing a BA in Computer Science** at UVA
 - 🛠️ Currently working on [AdmitifyAI](https://admitifyai.com), an AI-powered college admissions platform
 - ⚙️ Exploring projects with **Stripe, Supabase, Prisma, and LLM APIs**
 - 🌱 Learning more about **Next.js, AWS, PostgreSQL, and scalable backend architecture**
@@ -32,3 +32,11 @@ I'm Zayan, a Computer Science student at the University of Virginia with a passi
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zayan-omar-ashraf/)
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanOmarAshraf&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
+</p>
