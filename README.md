@@ -33,10 +33,3 @@ I'm Zayan, a Computer Science student at the University of Virginia with a passi
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zayan-omar-ashraf/)
 
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanOmarAshraf&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
-</p>
